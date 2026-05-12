@@ -222,7 +222,7 @@ export default function PortfolioWebsite() {
               href="mailto:vinamrathashettigar1@email.com"
               className="bg-white text-black px-8 py-4 rounded-2xl font-medium hover:scale-105 transition"
             >
-              Contact Me
+              Email Me
             </a>
 
             <a
