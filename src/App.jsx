@@ -8,14 +8,14 @@ export default function PortfolioWebsite() {
       github: 'https://github.com/Vinamratha/finflow-wallet-system',
       demo: 'https://finflow-wallet-system.onrender.com/',
     },
-    {
+    /*{
       title: 'Job Application Tracker',
       description:
         'A productivity application to track job applications, interview stages, recruiter notes, and application statuses.',
       tech: ['Laravel', 'PHP', 'MySQL', 'Bootstrap'],
-      github: 'https://github.com/yourusername/job-tracker',
-      demo: 'https://your-demo-link.com',
-    },
+      github: 'https://github.com/Vinamratha/job-tracker',
+      demo: 'https://job-tracker.onrender.com',
+    },*/
   ];
 
   const skills = [
@@ -63,7 +63,7 @@ export default function PortfolioWebsite() {
               </a>
 
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/Vinamratha"
                 target="_blank"
                 className="border border-white/20 px-6 py-3 rounded-2xl hover:bg-white/10 transition"
               >
@@ -219,14 +219,14 @@ export default function PortfolioWebsite() {
 
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="mailto:your@email.com"
+              href="mailto:vinamrathashettigar1@email.com"
               className="bg-white text-black px-8 py-4 rounded-2xl font-medium hover:scale-105 transition"
             >
               Contact Me
             </a>
 
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://linkedin.com/in/vinamrathars"
               target="_blank"
               className="border border-white/20 px-8 py-4 rounded-2xl hover:bg-white/10 transition"
             >
