@@ -81,9 +81,11 @@ export default function PortfolioWebsite() {
           </div>
 
           <div className="flex justify-center">
-            <div className="w-80 h-80 rounded-[2rem] bg-gradient-to-br from-white/20 to-white/5 border border-white/10 shadow-2xl backdrop-blur-xl flex items-center justify-center text-7xl font-bold">
-              VS
-            </div>
+            <img
+              src="/profile.jpg"
+              alt="Vinamratha Shettigar"
+              className="w-80 h-80 object-cover rounded-[2rem] border border-white/10 shadow-2xl"
+            />
           </div>
         </div>
       </section>
