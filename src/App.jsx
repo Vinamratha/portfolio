@@ -84,7 +84,7 @@ export default function PortfolioWebsite() {
             <img
               src="/profile.jpg"
               alt="Vinamratha Shettigar"
-              className="w-80 h-80 object-cover rounded-[2rem] border border-white/10 shadow-2xl"
+              className="w-72 h-72 object-cover rounded-[2rem] border border-white/10 shadow-2xl"
             />
           </div>
         </div>
