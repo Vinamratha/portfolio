@@ -82,7 +82,7 @@ export default function PortfolioWebsite() {
 
           <div className="flex justify-center">
             <img
-              src="/profile.jpg"
+              src="/profile.JPG"
               alt="Vinamratha Shettigar"
               className="w-72 h-72 object-cover rounded-[2rem] border border-white/10 shadow-2xl"
             />
