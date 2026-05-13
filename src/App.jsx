@@ -56,6 +56,14 @@ export default function PortfolioWebsite() {
 
             <div className="flex flex-wrap gap-4">
               <a
+                href="/Vinamratha_Shettigar_Resume.pdf"
+                target="_blank"
+                className="bg-white text-black px-6 py-3 rounded-2xl font-medium hover:scale-105 transition"
+              >
+                Download Resume
+              </a>
+
+              <a
                 href="#projects"
                 className="bg-white text-black px-6 py-3 rounded-2xl font-medium hover:scale-105 transition"
               >
