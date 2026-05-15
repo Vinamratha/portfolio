@@ -1,16 +1,98 @@
-# React + Vite
+# Backend Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern portfolio website showcasing backend engineering experience, Laravel projects, REST APIs, cloud deployment workflows, and live applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Portfolio
 
-## React Compiler
+**Portfolio Website:**  
+https://vinamrathashettigar.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio highlights my experience as a Backend Engineer with 10+ years of experience building and supporting enterprise applications across payments, financial services, and IT services environments.
+
+The site includes:
+
+- Professional experience overview
+- Technical skills
+- Featured backend projects
+- GitHub and live project links
+- Resume download
+- Contact information
+
+---
+
+## Featured Project
+
+### FinFlow Wallet System
+
+A Laravel-based digital wallet and peer-to-peer transfer platform demonstrating backend engineering, REST APIs, transaction handling, and cloud deployment workflows.
+
+**Live Demo:**  
+https://finflow-wallet-system.onrender.com
+
+**GitHub Repository:**  
+https://github.com/Vinamratha/finflow-wallet-system
+
+---
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- Netlify
+
+---
+
+## Backend Technologies Highlighted
+
+- PHP
+- Laravel
+- REST APIs
+- MySQL
+- SQL
+- GitHub
+- Render
+- Railway
+
+---
+
+## Deployment
+
+The portfolio is deployed on Netlify.
+
+---
+
+## Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Vinamratha/portfolio.git
+```
+### Install Dependencies
+```bash
+npm install
+```
+### Run locally
+```bash
+npm run dev
+```
+### Build for production
+```bash
+npm run build
+```
+
+---
+## Contact
+### LinkedIn:
+https://www.linkedin.com/in/vinamrathars
+
+### GitHub:
+https://github.com/Vinamratha
