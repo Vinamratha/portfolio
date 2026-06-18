@@ -4,7 +4,7 @@ export default function PortfolioWebsite() {
       title: 'FinFlow Wallet System',
       description:
         'A Laravel-based digital wallet and peer-to-peer money transfer platform with secure transaction handling and REST APIs.',
-      tech: ['Laravel', 'PHP', 'MySQL', 'REST API', 'Render', 'Railway'],
+      tech: ['Laravel', 'PHP', 'MySQL', 'REST API', 'Docker', 'Render', 'Railway'],
       github: 'https://github.com/Vinamratha/finflow-wallet-system',
       demo: 'https://finflow-wallet-system.onrender.com/',
     },
@@ -22,15 +22,19 @@ export default function PortfolioWebsite() {
     'PHP',
     'Laravel',
     'MySQL',
+    'MSSQL Server',
     'REST APIs',
     'JavaScript',
-    'HTML/CSS',
+    'Docker',
+    'Git',
     'GitHub',
+    'GitLab',
+    'CI/CD',
+    'Postman',
     'Render',
     'Railway',
-    'SQL',
-    'Backend Development',
-    'Debugging',
+    'AI-Assisted Development',
+    'GitHub Copilot'
   ];
 
   return (
@@ -40,7 +44,7 @@ export default function PortfolioWebsite() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="uppercase tracking-[0.3em] text-sm text-gray-400 mb-4">
-              Backend Engineer
+              Software Engineer
             </p>
 
             <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
@@ -49,15 +53,14 @@ export default function PortfolioWebsite() {
             </h1>
 
             <p className="text-lg text-gray-300 leading-relaxed mb-8 max-w-xl">
-              Backend developer with 10+ years of experience building reliable
-              PHP applications for payments, financial services, and enterprise
-              systems.
+              Software Engineer with 10+ years of experience building scalable PHP applications, REST APIs, and enterprise systems across payments and financial services.
             </p>
 
             <div className="flex flex-wrap gap-4">
               <a
                 href="/Vinamratha_Shettigar_Resume.pdf"
-                target="_blank"
+                target="_blank" 
+                rel="noopener noreferrer"
                 className="bg-white text-black px-6 py-3 rounded-2xl font-medium hover:scale-105 transition"
               >
                 Download Resume
@@ -73,6 +76,7 @@ export default function PortfolioWebsite() {
               <a
                 href="https://github.com/Vinamratha"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="border border-white/20 px-6 py-3 rounded-2xl hover:bg-white/10 transition"
               >
                 GitHub
@@ -96,10 +100,7 @@ export default function PortfolioWebsite() {
           <h2 className="text-3xl font-bold mb-8">About Me</h2>
 
           <div className="bg-white/5 border border-white/10 rounded-3xl p-8 text-gray-300 leading-relaxed text-lg">
-            I specialize in backend development using PHP and Laravel, with
-            hands-on experience in payment systems, APIs, database design, and
-            production issue resolution. I enjoy building scalable systems with
-            clean architecture and reliable performance.
+              I am a Software Engineer with 10+ years of experience building and supporting enterprise applications across payments, financial services, and IT services domains. My expertise includes PHP, REST APIs, SQL databases, backend architecture, production support, and application reliability. More recently, I have been building and deploying Laravel applications using modern cloud-hosted workflows.
           </div>
         </div>
       </section>
@@ -163,6 +164,7 @@ export default function PortfolioWebsite() {
                   <a
                     href={project.github}
                     target="_blank"
+                    rel="noopener noreferrer"
                     className="flex-1 text-center border border-white/20 py-3 rounded-2xl hover:bg-white/10 transition"
                   >
                     GitHub
@@ -171,6 +173,7 @@ export default function PortfolioWebsite() {
                   <a
                     href={project.demo}
                     target="_blank"
+                    rel="noopener noreferrer"
                     className="flex-1 text-center bg-white text-black py-3 rounded-2xl font-medium hover:scale-105 transition"
                   >
                     Live Demo
@@ -223,7 +226,7 @@ export default function PortfolioWebsite() {
           </h2>
 
           <p className="text-gray-300 text-lg mb-10">
-            Open to Backend Engineer, PHP Developer, and API-focused roles in
+            Open to Software Engineer, Backend Engineer, PHP/Laravel Developer, and API-focused roles in
             Canada.
           </p>
 
@@ -238,6 +241,7 @@ export default function PortfolioWebsite() {
             <a
               href="https://linkedin.com/in/vinamrathars"
               target="_blank"
+              rel="noopener noreferrer"
               className="border border-white/20 px-8 py-4 rounded-2xl hover:bg-white/10 transition"
             >
               LinkedIn
